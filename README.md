@@ -1,2 +1,2 @@
-# MobileSuggestionApplication using React and hosted in CodeSandBox
+# Mobile Suggestion Application using React and hosted in CodeSandBox
 [Live Project](https://9vr7t7.csb.app/)
